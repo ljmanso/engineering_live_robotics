@@ -1,6 +1,14 @@
-# engineering_live_robotics
+# Aston Engineering Live: Robotics
 
-We will go through the installation of Python3 and Webots during the sesion. However, if you do it beforehand, you will be less likely to have problems during the session.
+## Session contents
+- What is robotics
+- Types of robots and applications
+- Practical activity (two exercises)
+- Why studying robotics at Aston University?
+- Q&A
+
+## Video recording
+TBD
 
 ## Installation instructions
 https://bit.ly/3wMNQ1o
